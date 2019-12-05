@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // restAPIs: 'http://68.183.91.2:3000',
+  // socketNotifications: 'http://68.183.91.2:5555',
+  // fileUpload: 'http://68.183.91.2:4000'
 };
 
 /*
